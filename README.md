@@ -8,7 +8,7 @@ we propose a novel IoT system (IoT-V2E) for monitoring and analysing sleep state
 Specifically, IoT-V2E is a uncertainty-aware cross-modal hashing retrieval system that finds the most similar EEG signal representation in a database, rather than using a sleep stage classification paradigm, for sleep stage inference and analysis.
 
 <p align="center">
-<img src="https://github.com/SPIresearch/IoT-V2E/blob/main/NEWSYS.png" width="50%">
+<img src="https://github.com/SPIresearch/IoT-V2E/blob/main/NEWSYS.png" width="70%">
 </p>
 
 ## Getting Started
