@@ -1,0 +1,1 @@
+docker run --rm --gpus all --shm-size 32G -v /mnt/lustre:/workspace guo/cmd:latest sh guorongxiao/EEG_Video_Fusion/EEG_seg_jiqun/eeg_start.sh
