@@ -36,3 +36,5 @@ You need to input some parameters based on your own settings, including hash cod
 ### Inference:：
 Run retrieval_indatabase.py (single-GPU training)
 Modify the parameters according to your own situation. We provide the pre-trained weights of the feature extraction network Attnsleep for EEG signal.(pre_attn.py)
+
+Additionally, you can set the video data augmentation method for R3D in "dataset/dataloader_manger.py" according to your needs.dataset/dataloader_manger.py
