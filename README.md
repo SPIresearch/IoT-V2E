@@ -29,7 +29,7 @@ Specifically, IoT-V2E is a uncertainty-aware cross-modal hashing retrieval syste
 
 
 ### Train:：
-Run trainso.py  (single-GPU training)
+Run trainmm.py  (single-GPU training)
 
 You need to input some parameters based on your own settings, including hash code length, the location of the cross-modal dataset, and the location of generated hash codes, uncertainties, and checkpoints."
 
