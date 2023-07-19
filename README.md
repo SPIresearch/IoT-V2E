@@ -22,6 +22,13 @@ Specifically, IoT-V2E is a uncertainty-aware cross-modal hashing retrieval syste
 - openpyxl
 - mne=='0.20.7'
 
+<p align="center">
+<img src="https://github.com/SPIresearch/IoT-V2E/blob/main/Methods.pdf" width="70%">
+</p>
+
+
 
 ###Train：
-run train.py. You need to input some parameters based on your own settings, including hash code length, the location of the cross-modal dataset, and the location of generated hash codes, uncertainties, and checkpoints."
+Run trainso.py  (single-GPU training)
+
+You need to input some parameters based on your own settings, including hash code length, the location of the cross-modal dataset, and the location of generated hash codes, uncertainties, and checkpoints."
