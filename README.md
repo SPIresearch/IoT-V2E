@@ -23,7 +23,7 @@ Specifically, IoT-V2E is a uncertainty-aware cross-modal hashing retrieval syste
 - mne=='0.20.7'
 
 <p align="center">
-<img src="https://github.com/SPIresearch/IoT-V2E/blob/main/Methods.pdf" width="70%">
+<img src="https://github.com/SPIresearch/IoT-V2E/blob/main/Methods.png" width="70%">
 </p>
 
 
