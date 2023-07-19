@@ -32,3 +32,7 @@ Specifically, IoT-V2E is a uncertainty-aware cross-modal hashing retrieval syste
 Run trainso.py  (single-GPU training)
 
 You need to input some parameters based on your own settings, including hash code length, the location of the cross-modal dataset, and the location of generated hash codes, uncertainties, and checkpoints."
+
+### Inference:：
+Run retrieval_indatabase.py (single-GPU training)
+Modify the parameters according to your own situation. We provide the pre-trained weights of the feature extraction network Attnsleep for EEG signal.(pre_attn.py)
